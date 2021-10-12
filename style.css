@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: darkslateblue;
+}
+
+.outer-div {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+#temp {
+    font-size: 5rem;
+}
+
+.main-heading {
+    color: white;
+}
